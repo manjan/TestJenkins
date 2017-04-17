@@ -132,7 +132,7 @@ public class CustomInterceptor implements Interceptor {
         }
         catch(Exception ex){
             return event;
-            throw new ChannelException("RxNucLog:Intercept  " + ex.getMessage());
+            //throw new ChannelException("RxNucLog:Intercept  " + ex.getMessage());
         }
 
         LOG.info("Message Processed");
