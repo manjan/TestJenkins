@@ -135,6 +135,7 @@ public class CustomInterceptor implements Interceptor {
             //throw new ChannelException("RxNucLog:Intercept  " + ex.getMessage());
         }
 
+        
         LOG.info("Message Processed");
         try {
             //For logging and verification purpose, store incoming message data into local file system

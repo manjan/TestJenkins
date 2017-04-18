@@ -37,8 +37,8 @@
       <file leaf-file-name="CustomInterceptor.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/wma/allscripts/flume/interceptor/CustomInterceptor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="134" column="14" selection-start-line="134" selection-start-column="14" selection-end-line="134" selection-end-column="14" />
+            <state relative-caret-position="242">
+              <caret line="137" column="8" selection-start-line="137" selection-start-column="8" selection-end-line="137" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -921,8 +921,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/wma/allscripts/flume/interceptor/CustomInterceptor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="134" column="14" selection-start-line="134" selection-start-column="14" selection-end-line="134" selection-end-column="14" />
+        <state relative-caret-position="242">
+          <caret line="137" column="8" selection-start-line="137" selection-start-column="8" selection-end-line="137" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
